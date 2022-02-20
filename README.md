@@ -37,3 +37,5 @@
 
 <!-- ![snake gif](https://github.com/Abirpal202049/Abirpal202049/blob/output/github-contribution-grid-snake.gif) -->
 ![snake gif](https://github.com/Abirpal202049/Abirpal202049/blob/output/github-contribution-grid-snake.svg)
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abirpal202049" alt="abirpal202049" /></a> </p>
