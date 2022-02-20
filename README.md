@@ -27,12 +27,14 @@
 
 ## 📊 My Github Stats
 <br>
-<p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Abirpal202049&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=tokyonight"/>
-<!-- <br>
-<br> -->
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Abirpal202049&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
-</p>
+<table>
+<tr>
+<td>
+<img src="https://github-readme-stats.vercel.app/api?username=Abirpal202049&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=tokyonight"/>
+<td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Abirpal202049&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
+</td>
+</tr>
+</table>>
 
 
 <!-- ![snake gif](https://github.com/Abirpal202049/Abirpal202049/blob/output/github-contribution-grid-snake.gif) -->
