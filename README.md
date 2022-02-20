@@ -39,6 +39,9 @@
 
 
 <!-- ![snake gif](https://github.com/Abirpal202049/Abirpal202049/blob/output/github-contribution-grid-snake.gif) -->
+<h2 align="center">
+  My Contribution Graph <img src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="50">
+</h2>
 
 ![snake gif](https://github.com/Abirpal202049/Abirpal202049/blob/output/github-contribution-grid-snake.svg)
  
@@ -49,3 +52,18 @@
 <!--  Important link
 https://rahuldkjain.github.io/gh-profile-readme-generator/
 https://github.com/ryo-ma/github-profile-trophy#chalk-->
+
+<div align="center">
+ 
+## Connect with me:
+<p align="left">
+
+<!-- <a href = "https://www.linkedin.com/in/aira-jena-718437216/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://twitter.com/AiraJen23"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://www.instagram.com/aira_jena23/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a> -->
+
+
+</p>
+
+
+</div>
