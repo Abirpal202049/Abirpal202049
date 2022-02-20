@@ -40,3 +40,7 @@
 
 <p align="center"> <a href="https://github.com/Abirpal202049/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Abirpal202049&row=3&column=3&margin-w=15&margin-h=15&theme=dracula" /></a> </p>
 
+
+<!--  Important link
+https://rahuldkjain.github.io/gh-profile-readme-generator/
+https://github.com/ryo-ma/github-profile-trophy#chalk-->
