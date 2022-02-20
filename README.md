@@ -28,8 +28,8 @@
 <br>
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Abirpal202049&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=tokyonight"/>
-<!-- <br>
-<br> -->
+<br>
+<br>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Abirpal202049&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
 </p>
 
