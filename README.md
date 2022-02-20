@@ -38,4 +38,5 @@
 <!-- ![snake gif](https://github.com/Abirpal202049/Abirpal202049/blob/output/github-contribution-grid-snake.gif) -->
 ![snake gif](https://github.com/Abirpal202049/Abirpal202049/blob/output/github-contribution-grid-snake.svg)
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abirpal202049" alt="abirpal202049" /></a> </p>
+<p align="center"> <a href="https://github.com/Abirpal202049/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Abirpal202049&row=3&column=3&margin-w=15&margin-h=15&theme=dracula" /></a> </p>
+
