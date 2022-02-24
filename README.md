@@ -58,9 +58,9 @@ https://github.com/ryo-ma/github-profile-trophy#chalk-->
 ## Connect with me:
 <p align="left">
 
-<!-- <a href = "https://www.linkedin.com/in/aira-jena-718437216/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/AiraJen23"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/aira_jena23/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a> -->
+<a href = "https://www.linkedin.com/in/abir-pal/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://github.com/Abirpal202049"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://www.instagram.com/abir_raj_pal"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 
 
 </p>
