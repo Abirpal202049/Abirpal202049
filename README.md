@@ -55,7 +55,7 @@ https://github.com/ryo-ma/github-profile-trophy#chalk-->
 
 <div align="center">
  
-## Connect with me:
+## Connect With Me:
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/abir-pal/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
