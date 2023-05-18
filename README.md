@@ -1,5 +1,5 @@
 ![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
-<h1 align="center">Hi Everyone 👋, I'm Abir Pal</h1>
+<h1 align="center">Hi Everyone 👋, Myself Abir Pal</h1>
 
 
 - 🔭 I’m currently working on <b> MERN stack </b>
